@@ -1,6 +1,6 @@
 {
-  "name": "27-redux-toolkit-jobster",
-  "version": "0.1.0",
+  "name": "jobster",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",

@@ -61,7 +61,7 @@ const AddJob = () => {
         })
       );
     }
-  }, []);
+  }, [isEditing, dispatch, user.location]);
 
   return (
     <Wrapper>
